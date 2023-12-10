@@ -12,7 +12,7 @@ import random
 batch_size = 256  # Batch size for training.
 epochs = 1  # Number of epochs to train for.
 latent_dim = 256  # Latent dimensionality of the encoding space.
-num_samples = 3000000  # Number of samples to train on.
+num_samples = 50000  # Number of samples to train on.
 # Path to the data txt file on disk.
 data_path = "./pol.txt"
 
